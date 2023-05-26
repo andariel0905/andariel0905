@@ -1,8 +1,7 @@
-### Hi there 👋
+#### Hi ^_^ I'm Nicolás Sosa, nice to meet you
 
-<h1 align="center">Who Am I? I'm Nicolás Sosa</h1>
-<h3 align="center">I´m a Fullstack developer from Argentina</h3>
-
+<h3> Who I'm and what do I do? </h3>
+I am a **Fullstack Developer**. I have a background as a Informatics Technician
 <p align="left">
 </p>
 
