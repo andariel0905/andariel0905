@@ -4,6 +4,7 @@
 I am a Fullstack Developer. I have a background as an IT Technician and working in a Web Development team as a Tester. I really never had any passion for anything related to IT before the second to last year finishing highschool. But during the covid-19 lockdown in 2020 I began to be more and more interested in this world, learning first and foremost Python and HTML + CSS, and I made my first web design! Since then, my love for the IT just grew and now I focus on Web Development.
   
 <h4> what do I do? </h4>
+Currently, I develop web projects using frontend, backend and database technologies.
 <p align="left">
 </p>
 
