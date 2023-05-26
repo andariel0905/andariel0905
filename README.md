@@ -1,10 +1,10 @@
 #### Hi ^_^ I'm Nicolás Sosa, nice to meet you
 
 <h4> Who am I? </h4>
-I am a Fullstack Developer. I have a background as an IT Technician and working in a Web Development team as a Tester. I really never had any passion for anything related to IT before the second to last year finishing highschool. But during the covid-19 lockdown in 2020 I began to be more and more interested in this world, learning first and foremost Python and HTML + CSS, and I made my first web design! Since then, my love for the IT just grew and now I focus on Web Development.
+I am a Fullstack Developer. I have a background as an IT Technician and have worked in a Web Development team as a Tester. I never had a passion for anything related to IT before the second-to-last year of high school. However, during the Covid-19 lockdown in 2020, I became more and more interested in this field. I started by learning Python, HTML and CSS, and I even created my first web design. Since then, my love for IT has continued to grow, and now I primarily focus on Web Development.
   
 <h4> what do I do? </h4>
-Currently, I develop web projects using frontend, backend and database technologies.
+Currently, I develop web projects using frontend, backend, and database technologies. I am currently working on a Web App based on a Hotel Reception.
 <p align="left">
 </p>
 
