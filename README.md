@@ -4,7 +4,7 @@ My email is: <h5>workoanda@gmail.com</h5>
 And my LinkedIn profile is: <h5>https://www.linkedin.com/in/nicol%C3%A1s-sebasti%C3%A1n-sosa-13b746233</h5>
 
 <h4> Who am I? </h4>
-I am a Fullstack Developer. I have a background as an IT Technician and have worked in a Web Development team as a Tester. 
+I am a Developer. I have a background as an IT Technician and have worked in a Web Development team as a Tester. 
   
 <h4> What do I do? </h4>
 Currently, I develop web projects using frontend, backend, and database technologies.
