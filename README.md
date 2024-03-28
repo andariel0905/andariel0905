@@ -4,10 +4,10 @@ My email is: <h5>workoanda@gmail.com</h5>
 And my LinkedIn profile is: <h5>https://www.linkedin.com/in/nicol%C3%A1s-sebasti%C3%A1n-sosa-13b746233</h5>
 
 <h4> Who am I? </h4>
-I am a Fullstack Developer. I have a background as an IT Technician and have worked in a Web Development team as a Tester. I never had a passion for anything related to IT before the second-to-last year of high school. However, during the Covid-19 lockdown in 2020, I became more and more interested in this field. I started by learning Python, HTML and CSS, and I even created my first web design. Since then, my love for IT has continued to grow, and now I primarily focus on Web Development.
+I am a Fullstack Developer. I have a background as an IT Technician and have worked in a Web Development team as a Tester. 
   
 <h4> What do I do? </h4>
-Currently, I develop web projects using frontend, backend, and database technologies. I am currently working on a Web App based on a Hotel Reception.
+Currently, I develop web projects using frontend, backend, and database technologies.
 
 
 <h4> Which technologies do I use? </h4>
